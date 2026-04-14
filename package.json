@@ -1,0 +1,21 @@
+{
+  "name": "gitflow-demo",
+  "version": "1.0.1",
+  "description": "Demo de GitFlow",
+  "scripts": {
+    "test": "echo 'No tests configured' && exit 0",
+    "lint": "echo 'No lint configured' && exit 0"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bemellaa/gitflow-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bemellaa/gitflow-demo/issues"
+  },
+  "homepage": "https://github.com/bemellaa/gitflow-demo#readme"
+}
