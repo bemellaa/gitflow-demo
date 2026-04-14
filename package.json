@@ -1,0 +1,9 @@
+{
+  "name": "gitflow-demo",
+  "version": "1.0.1",
+  "description": "Demo de GitFlow",
+  "scripts": {
+    "test": "echo 'No tests configured' && exit 0",
+    "lint": "echo 'No lint configured' && exit 0"
+  }
+}
